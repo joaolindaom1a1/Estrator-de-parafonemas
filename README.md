@@ -1,0 +1,1 @@
+# Estrator-de-parafonemas
